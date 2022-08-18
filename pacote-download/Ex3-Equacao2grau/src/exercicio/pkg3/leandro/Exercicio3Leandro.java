@@ -34,7 +34,7 @@ public class Exercicio3Leandro {
         x1 = (-b + Math.sqrt(delta))/ (2 * a);
         
         double x2;                 
-        x2 = (-b + Math.sqrt(delta))/ (2 * a);
+        x2 = (-b - Math.sqrt(delta))/ (2 * a);
         
         
         if (delta < 0) {
